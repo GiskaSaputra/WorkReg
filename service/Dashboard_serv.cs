@@ -8,5 +8,7 @@ namespace WorkReg.service
 {
     internal class Dashboard_serv
     {
+
+        ////////////////
     }
 }
