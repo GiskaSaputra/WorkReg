@@ -7,7 +7,7 @@ using System.Data;
 
 namespace SIRaM.konfigurasi
 {
-    abstract class Konfigurasi
+    abstract class Konfigurasivfdvfdvfdvfdvfdvdfvd
     {
         //untuk menangani instruksi INSERT, UPDATE ,dan DELETE
         //function
